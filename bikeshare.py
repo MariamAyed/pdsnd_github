@@ -1,3 +1,7 @@
+#1/ Program will ask user to enter one of the below listed cities , 
+#If user entered another city program will return an error message and ask user to enter one of ( New York, Washington , Chicago )
+#2/Program basically consists of three enteries, which mean it will ask user to enter three values. City, month and day
+
 import time
 import pandas as pd
 import numpy as np
